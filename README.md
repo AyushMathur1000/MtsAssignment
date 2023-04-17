@@ -7,7 +7,6 @@ This project is a system designed for a food delivery company to self-onboard re
 Why is this project useful?
 This project is useful because it automates the process of onboarding new restaurants for a food delivery company. Instead of manually entering each restaurant's details into the system, restaurants can now self-onboard by submitting a form through the frontend. This saves time and resources for both the food delivery company and the restaurants.
 
-Getting started
 To get started with this project, you will need to do the following:
 1. Clone the repository to your local machine
 2. Install the required dependencies
